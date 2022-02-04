@@ -1,0 +1,11 @@
+1 Monitor l s 10.5
+2 PlacaGrafica l s 2.5
+3 Rato l s 0.5
+4 Motherboard l s 3.5
+5 Teclado l s 1.0
+6 Processador l s 5.0
+7 Computador l a 1 2 3 4 5 6
+8 LivroPython l s 5.0
+9 LivroC++ p s 3.0
+10 ConjuntoLivros p a 8 9
+11 ConjuntoEstudo o a 7 8
